@@ -23,3 +23,5 @@ You can reach me
 * https://www.linkedin.com/in/kwame-forbes-008451192/
 * https://twitter.com/kwame_forbes
 
+Inline-style: 
+![alt text](http://pluspng.com/png-80981.html "Logo Title Text 1")
