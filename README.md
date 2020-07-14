@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **KwameForbes/KwameForbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Kwame
 
-**There's an old African proverb that says**
+**There's an old African proverb that says:**
 >*“If you want to go quickly, go alone.
 >If you want to go far, go together.”*
+
+https://www.linkedin.com/in/kwame-forbes-008451192/
 
 
