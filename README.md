@@ -27,3 +27,9 @@ Inline-style:
 ![alt text](http://pluspng.com/png-80981.html "Logo Title Text 1")
 
 "{\"localizedFirstName\":\"Kwame\",\"localizedLastName\":\"Forbes\",\"localizedProfiles\":[{\"displayLocale\":\"English\",\"vanityName\":\"kwame-forbes-008451192\",\"firstName\":\"Kwame\",\"lastName\":\"Forbes\",\"profileUrl\":\"https://vi.linkedin.com/in/kwame-forbes-008451192\",\"encodedId\":null,\"locale\":\"en_US\",\"canonicalName\":null}],\"pageKey\":\"profile-badge-create\",\"badgeVersion\":\"v1\",\"jsBeaconUrl\":\"https://www.linkedin.com/analytics/noauthtracker\",\"defaultBadgeType\":null,\"canonicalUrl\":\"https://www.linkedin.com/badges/profile/create?vanityname=kwame-forbes-008451192&preferredlocale=en_US\",\"cdnJsPath\":\"https://platform.linkedin.com/badges/js/profile.js\"}"
+
+
+https://vi.linkedin.com/in/kwame-forbes-008451192
+
+www.linkedin.com/analytics/noauthtracker\",\"defaultBadgeType\":null,\"canonicalUrl\":\"https://www.linkedin.com/badges/profile/create?vanityname=kwame-forbes-008451192&preferredlocale=en_US\",\"cdnJsPath\":\"https://platform.linkedin.com/badges/js/profile.js\
+
