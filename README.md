@@ -21,8 +21,8 @@ _____
 _____
 
  Currently working from home with Asia :cat2:
- * Loving of Bioinfomatics&CompBio*
- * :us: :us_virgin_islands:*
+# Loving of Bioinfomatics&CompBio*
+# :us: :us_virgin_islands:*
 
 #### You can reach me:
 * *[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes")*
