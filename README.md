@@ -20,7 +20,7 @@ _____
 >>>**LET'S GO FARTHER TOGETHER!** :relaxed:
 _____
 
-* Currently working from home with Asia :cat2:
+ Currently working from home with Asia :cat2:
 
 #### You can reach me:
 * *[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes")*
