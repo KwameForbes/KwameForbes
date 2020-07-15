@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-_____
->### **There's an old African proverb that says:**
->>*“If you want to go quickly, go alone. If you want to go far, go together.”*
->>>**LET'S GO FARTHER TOGETHER!** :relaxed:
+_____<br>
+>### **There's an old African proverb that says:**<br>
+>>*“If you want to go quickly, go alone. If you want to go far, go together.”*<br>
+>>>**LET'S GO FARTHER TOGETHER!** :relaxed:<br>
 _____
 
 Currently working from home with Asia :cat2: <br>Bioinfomatics&CompBio Lover <br>:us: :us_virgin_islands:
