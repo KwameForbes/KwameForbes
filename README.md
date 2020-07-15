@@ -20,7 +20,7 @@ _____
 >>>**LET'S GO FARTHER TOGETHER!** :relaxed:<br>
 _____
 
-Currently working from home with Asia :cat2: <br>Bioinfomatics&CompBio Lover <br>:us: :us_virgin_islands:
+:us: :us_virgin_islands:<br>Currently working from home with Asia :cat2: <br>Lover of Bioinfomatics&CompBio & All things Science :atom: 
 
 #### You can reach me:<br>
 * *[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes")
