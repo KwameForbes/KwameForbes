@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 >>>**LET'S GO FARTHER TOGETHER!**
 
 You can reach me:
-* *[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/)*
-* *[Twitter](https://twitter.com/kwame_forbes)*
+* *[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes")*
+* *[Twitter](https://twitter.com/kwame_forbes "Kwame Forbes")*
 
 This is the *[Markdown Guide](https://www.markdownguide.org)*.
 
--![Philadelphia's Magic Gardens. This place was so cool!](http://clipart-library.com/images/rinrMGj7T.jpg "Philadelphia's Magic Gardens")
+- ![Philadelphia's Magic Gardens. This place was so cool!](http://clipart-library.com/images/rinrMGj7T.jpg "Philadelphia's Magic Gardens")
