@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-_____<br>
+_____
 >### **There's an old African proverb that says:**<br>
 >>*“If you want to go quickly, go alone. If you want to go far, go together.”*<br>
 >>>**LET'S GO FARTHER TOGETHER!** :relaxed:<br>
