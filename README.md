@@ -20,7 +20,7 @@ _____
 >>>**LET'S GO FARTHER TOGETHER!** :relaxed:
 _____
 
-### Currently working from home with Asia :cat2:
+### Currently working <br>from home with Asia :cat2:
 \newline ### Bioinfomatics&CompBio Lover
 # :us: :us_virgin_islands:
 
