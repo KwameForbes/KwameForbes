@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 >>>**LET'S GO FARTHER TOGETHER!**
 
 #### You can reach me:
+______
 * *[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes")*
 * *[Twitter](https://twitter.com/kwame_forbes "Kwame Forbes")*
 
