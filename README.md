@@ -23,7 +23,7 @@ _____
 Currently working from home with Asia :cat2: <br>Bioinfomatics&CompBio Lover <br>:us: :us_virgin_islands:
 
 #### You can reach me:<br>
-* *[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes")*<br>
+* *[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes")
 * *[Twitter](https://twitter.com/kwame_forbes "Kwame Forbes")*
 
 
