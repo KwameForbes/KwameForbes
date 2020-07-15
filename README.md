@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# **There's an old African proverb that says:**
+### **There's an old African proverb that says:**
 >*“If you want to go quickly, go alone.
 >If you want to go far, go together.”*
 
