@@ -23,4 +23,5 @@ You can reach me:
 * https://www.linkedin.com/in/kwame-forbes-008451192/
 * https://twitter.com/kwame_forbes
 
-http://clipart-library.com/images/rinrMGj7T.jpg
+
+![Philadelphia's Magic Gardens. This place was so cool!](http://clipart-library.com/images/rinrMGj7T.jpg "Philadelphia's Magic Gardens")
