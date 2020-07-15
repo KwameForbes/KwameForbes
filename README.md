@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 >### **There's an old African proverb that says:**
->*“If you want to go quickly, go alone.
->If you want to go far, go together.”*
+>>*“If you want to go quickly, go alone. If you want to go far, go together.”*
+>>>**LET'S GO FARTHER TOGETHER!**
 
 You can reach me:
 * https://www.linkedin.com/in/kwame-forbes-008451192/
