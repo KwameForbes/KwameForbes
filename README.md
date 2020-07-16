@@ -24,6 +24,6 @@ _____
 
 #### You can reach me:<br>
 [Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes")<br>
-[Twitter](https://twitter.com/kwame_forbes "@Kwame_Forbes")
+[Twitter](https://twitter.com/kwame_forbes "@Kwame_Forbes")<br>
 <p><a href="mailto:kwamek@email.unc.edu?Subject=Hi%20mate" target="_top">Email me</a></p>
 
