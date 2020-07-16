@@ -22,10 +22,9 @@ _____
 
 :us: :us_virgin_islands:<br>Currently working from home with Asia :cat2: <br>Lover of Bioinfomatics&CompBio & All Things Science :atom: 
 
-#### You can reach me:<br>
+#### You can reach me: :e-mail:<br>
 [Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes") <br>
 [Twitter](https://twitter.com/kwame_forbes "@Kwame_Forbes") <br>
-:e-mail: <p><a href="mailto:kwamek@email.unc.edu?Subject=Hi%20mate" target="_top">Email me</a></p>
 [Email me](mailto:kwamek@email.unc.edu)
 
 
