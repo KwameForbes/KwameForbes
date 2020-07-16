@@ -27,9 +27,10 @@ _____
 [Twitter](https://twitter.com/kwame_forbes "@Kwame_Forbes") <br>
 <p><a href="mailto:kwamek@email.unc.edu?Subject=Hi%20mate" target="_top">Email me</a></p>
 
-| | You can reach me | |
-| | ||
-| [Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes") | [Twitter](https://twitter.com/kwame_forbes "@Kwame_Forbes")|<p><a href="mailto:kwamek@email.unc.edu?Subject=Hi%20mate" target="_top">Email me</a></p>|
+| :e-mail:      | You can reach me: | :speech_balloon:    |
+| :---        |    :----:   |          ---: |
+|[Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes")     | <p><a href="mailto:kwamek@email.unc.edu?Subject=Hi%20mate" target="_top">Email me</a></p>      |[Twitter](https://twitter.com/kwame_forbes "@Kwame_Forbes")   |
+
 
 
 
