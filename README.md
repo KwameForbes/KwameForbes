@@ -21,7 +21,7 @@ _____
 _____
 
 :us: :us_virgin_islands:<br>Currently working from home with Asia :cat2: <br>Lover of Bioinfomatics&CompBio & All Things Science :atom: 
-
+---
 #### You can reach me: :e-mail:<br>
 [Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes") <br>
 [Twitter](https://twitter.com/kwame_forbes "@Kwame_Forbes") <br>
