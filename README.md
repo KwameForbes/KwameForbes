@@ -20,7 +20,7 @@ _____
 >>>**LET'S GO FARTHER TOGETHER!** :relaxed:<br>
 _____
 
-:us: :us_virgin_islands:<br>Currently working from home with Asia :cat2: <br>Lover of Bioinfomatics&CompBio & All Things Science :atom: 
+:us: :us_virgin_islands:<br>Currently working from home and the lab <br>Lover of Bioinfomatics&CompBio & All Things Science :atom: 
 _____
 #### You can reach me: :e-mail:<br>
 [Linkedin](https://www.linkedin.com/in/kwame-forbes-008451192/ "Kwame Forbes") <br>
